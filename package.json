@@ -18,6 +18,7 @@
     "@pulumi/gcp": "^3.0.0",
     "@pulumi/pulumi": "^2.0.0",
     "apollo-server-cloud-functions": "^2.18.1",
+    "dotenv": "^8.2.0",
     "graphql": "^15.3.0",
     "neo4j-driver": "^4.1.2",
     "neo4j-graphql-js": "^2.16.4"
