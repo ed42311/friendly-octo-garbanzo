@@ -1,0 +1,25 @@
+{
+  "name": "gcp-quick",
+  "devDependencies": {
+    "@types/node": "^10.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "^4.3.0",
+    "lint-staged": "^10.4.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.1.2",
+    "prettier-eslint": "^11.0.0",
+    "prettier-eslint-cli": "^5.0.0"
+  },
+  "dependencies": {
+    "@pulumi/gcp": "^3.0.0",
+    "@pulumi/pulumi": "^2.0.0",
+    "apollo-server-cloud-functions": "^2.18.1",
+    "graphql": "^15.3.0",
+    "neo4j-driver": "^4.1.2",
+    "neo4j-graphql-js": "^2.16.4"
+  }
+}
